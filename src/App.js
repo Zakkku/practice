@@ -17,7 +17,7 @@ function App() {
         >
           Portfolio
         </a>
-        <p>This page was made with Create React App</p>
+        
       </header>
     </div>
   );
